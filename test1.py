@@ -98,5 +98,4 @@ y = 100
 print(bool(x))
 print(bool(y))
 
-
 """
